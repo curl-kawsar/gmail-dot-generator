@@ -55,7 +55,7 @@ const Navbar = () => {
         <div className="flex items-center space-x-3">
           <Button variant="ghost" size="sm" asChild>
             <a
-              href="https://github.com"
+              href="https://github.com/curl-kawsar/gmail-dot-generator"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2"
@@ -68,9 +68,17 @@ const Navbar = () => {
             variant="outline"
             size="sm"
             className="bg-gradient-to-r from-blue-600 to-red-500 text-white border-0 hover:from-blue-700 hover:to-red-600"
+            asChild
           >
-            <Star className="h-4 w-4 mr-1" />
-            <span className="hidden sm:inline">Star</span>
+            <a
+              href="https://github.com/curl-kawsar/gmail-dot-generator"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-1"
+            >
+              <Star className="h-4 w-4" />
+              <span className="hidden sm:inline">Star</span>
+            </a>
           </Button>
         </div>
       </div>

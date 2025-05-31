@@ -78,7 +78,7 @@ const Footer = () => {
                 className="w-full justify-start gap-2 border-gray-200 hover:bg-gray-50"
                 asChild
               >
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/curl-kawsar/gmail-dot-generator" target="_blank" rel="noopener noreferrer">
                   <Github className="h-4 w-4" />
                   Star on GitHub
                 </a>
@@ -102,17 +102,17 @@ const Footer = () => {
             {/* Social Links */}
             <div className="flex items-center space-x-2">
               <Button variant="ghost" size="icon" asChild>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-600">
+                <a href="https://github.com/curl-kawsar/gmail-dot-generator" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-600">
                   <Github className="h-4 w-4" />
                 </a>
               </Button>
               <Button variant="ghost" size="icon" asChild>
-                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-600">
+                <a href="https://twitter.com/curl_kawsar" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-600">
                   <Twitter className="h-4 w-4" />
                 </a>
               </Button>
               <Button variant="ghost" size="icon" asChild>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-600">
+                <a href="https://linkedin.com/in/curl-kawsar" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-600">
                   <Linkedin className="h-4 w-4" />
                 </a>
               </Button>

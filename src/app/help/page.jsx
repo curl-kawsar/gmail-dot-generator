@@ -161,19 +161,21 @@ export default function HelpPage() {
                 If you have questions, suggestions, or found a bug, we'd love to hear from you!
               </p>
               <div className="flex flex-wrap gap-4">
-                <a 
-                  href="https://github.com" 
-                  target="_blank" 
+                <a
+                  href="https://github.com/curl-kawsar/gmail-dot-generator/issues"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 text-sm font-medium"
                 >
                   Report an Issue on GitHub →
                 </a>
-                <a 
-                  href="mailto:support@example.com" 
+                <a
+                  href="https://github.com/curl-kawsar/gmail-dot-generator"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 text-sm font-medium"
                 >
-                  Send us an Email →
+                  Star the Repository →
                 </a>
               </div>
             </CardContent>
