@@ -7,6 +7,10 @@ A modern, responsive web application that generates all possible dot variations 
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-blue?style=for-the-badge&logo=tailwindcss)
 
+[![GitHub stars](https://img.shields.io/github/stars/curl-kawsar/gmail-dot-generator?style=social)](https://github.com/curl-kawsar/gmail-dot-generator/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/curl-kawsar/gmail-dot-generator?style=social)](https://github.com/curl-kawsar/gmail-dot-generator/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/curl-kawsar/gmail-dot-generator)](https://github.com/curl-kawsar/gmail-dot-generator/issues)
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
